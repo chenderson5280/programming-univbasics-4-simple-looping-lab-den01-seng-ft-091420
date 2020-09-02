@@ -15,6 +15,6 @@ while count < num
   end
 end
 def output_array(message,num)
-num.times puts message
+num.times {puts message}
 
 end
