@@ -14,9 +14,10 @@ while count < num  do
   count+=1
   end
 end
-def output_array(message,num)
-num.times {puts message}
-
+def output_array(array)
+count = 0
+ while count <array.length do
+puts array
 end
 def return_string_array(array)
 count = 0
