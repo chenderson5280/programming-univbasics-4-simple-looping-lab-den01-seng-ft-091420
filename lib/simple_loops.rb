@@ -18,3 +18,6 @@ def output_array(message,num)
 num.times {puts message}
 
 end
+def return_string_array(array)
+
+end
