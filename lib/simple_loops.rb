@@ -12,5 +12,9 @@ count = 0
 while count < num
   puts message
   count+=1
+  end
 end
-end
+def output_array(message,num)
+num.times puts message
+
+end 
