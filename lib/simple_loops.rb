@@ -8,8 +8,9 @@ def loop_message_five_times (message)
  end
 end
 def loop_message_n_times (message,num)
-
+count = 0
 while count < num
   puts message
+  count+=1
 end
 end
