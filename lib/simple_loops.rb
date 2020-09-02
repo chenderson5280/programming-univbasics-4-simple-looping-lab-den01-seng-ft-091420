@@ -17,4 +17,4 @@ end
 def output_array(message,num)
 num.times puts message
 
-end 
+end
